@@ -1,14 +1,14 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+## Entah
+Feat ku: cuman nambahin server ny saja biar bisa run vercel
+sedangkan ini permintaan client suruh Running in, gimana cara nya biar bisa shared
 
+Domain: https://kakjapp.airinn.site 
 
-# Description
-Flower code tiktok trend 
+> Note:
+> Domain memakai subdo
+> cumn ganti separuh aja
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
 - Flower Code : Md Usman Ansari (@MdUsmanAnsari)
 - Index Code : Septian Dwi Cahyo (@Septiandwica)
-
-Thanks to codepan and mdusmanansari
