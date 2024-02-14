@@ -41,7 +41,7 @@ position: absolute;
 bottom: 10vmin;
 transform-origin: bottom center;
 z-index: 10;
---fl-speed: 1s;
+--fl-speed: 0.8s;
 }
 .flower--1 {
 -webkit-animation: moving-flower-1 4s linear infinite;
